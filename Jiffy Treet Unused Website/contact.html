@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Jiffy Treet Ellettsville - Contact</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="jiffytreet.css">
+<link rel="icon" href="images/icons/favicon.ico" type="image/ico">
+</head>
+
+<body>
+  <div id="wrapper">
+  <header>
+	<h1>Contact Us</h1>
+  </header>
+
+  <nav>
+  <ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="new.html">What's New</a></li>
+	<li><a href="about.html">About Us</a></li>
+	<li><a href="menu.html">Menu &amp; Prices</a></li>
+	<li><a href="hours.html">Hours &amp; Locations</a></li>
+	<li><a href="contact.html">Contact</a></li>
+  </ul>
+  </nav>
+  
+  <main>
+    <p>Contact us by phone or by email below. Feel free to place a call-ahead order!</p>
+	<div>
+	  Phone: <a href="tel: 812-876-7770">812-876-7770</a><br>
+	  Email: <a href="mailto:jiffytreetwest@gmail.com">jiffytreetwest@gmail.com</a>
+	</div>
+	<p>Those looking to apply can print and fill out <a href="images/app_placeholder.jpg" download="asdf">this application</a> and turn it in at the store. 
+	<p>Send us feedback here. Include your name and email if you want us to get back to you. <br>Report a problem, suggest an improvement, or request a new flavor!</p>
+	<form method="post" action="http://webdevbasics.net/scripts/demo.php">
+	  <label for="name">Name:</label>
+	  <input type="text" name="name" id="name">
+	  <label for="email">Email:</label>
+	  <input type="email" name="email" id="email"><br>
+	  <label for="comtype" id="radio">Select One:</label>
+	    <input type="radio" name="comtype" id="comComplain" value="Complain">Complaint<br>
+		<input type="radio" name="comtype" id="comSuggest" value="Suggest">Suggestion<br>
+		<input type="radio" name="comtype" id="comRequest" value="Request">Request a Flavor<br>
+		<input type="radio" name="comtype" id="comOther" value="Other">Other
+	  <label for="comment">Comments:</label>
+	  <textarea required="required" cols="40" rows="3" name="comment" id="comment"></textarea>
+	  <input type="submit" id="submit">
+	  <input type="reset">
+	</form>
+  </main>
+  
+  <footer>
+    &copy;Jiffy Treet Inc. 2020
+  </footer>
+</div>
+</body>
+</html>

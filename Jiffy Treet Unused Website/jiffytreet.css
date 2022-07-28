@@ -1,0 +1,120 @@
+* { box-sizing: border-box; }
+
+header, nav, main, footer { display: block; }
+
+header { background-image: url(images/logo.jpg);
+		 background-repeat: no-repeat; 
+		 background-size: 200px 150px;
+		 background-color: #abcdef;
+		 height: 150px; }
+
+h1 { padding-left: 230px; 
+	 padding-top: 50px;
+	 font-family: Lucida Handwriting, Georgia, serif;
+	 font-size: 2.5em; }
+	 
+h2 { margin-top: 0; }
+
+h4 { margin-bottom: 5px; }
+
+body { background-color: #0099ff;
+	   font-family: Verdana, Arial, sans-serif;
+	   margin-top: 2em; }
+
+nav { height: 50px;
+	  width: 820px;
+	  float: right;
+	  background-color: #123456; }
+
+nav a { text-decoration: none; 
+		color: #FFFFFF; 
+		background-color: #F36062; 
+		padding: 8px; 
+		border-radius: 10px; }
+
+nav ul { list-style-type: none; 
+		 width: 659px;
+		 margin-left: auto;
+		 margin-right: auto; 
+		 margin-top: 0;
+		 margin-bottom: 0;
+		 padding-left: 0;
+		 padding-top: 16px; }
+
+nav li { display: inline; }
+		 
+main { margin-left: 200px; 
+	   padding: 40px;
+	   padding-top: 60px; 
+	   background-color: #aabbcc; }
+
+ul p { margin-top: 5px; }
+
+hr { border-color: #ffffff; }
+
+footer { clear: both; 
+		 text-align: center; 
+		 height: 30px;
+		 border-top: 1px solid #000000; }
+
+table { margin-left: 80px;
+		margin-bottom: 30px; }
+
+th, td, caption { padding: 10px; }
+
+caption { font-weight: bold; }
+		 
+form { background-color: #eeeeee;
+	   width: 450px;
+	   font-family: Arial, sans-serif;
+	   padding: 10px; }
+	   
+label { float: left;
+		width: 100px;
+		clear: left;
+		text-align: right;
+		padding-right: 10px;
+		margin-top: 10px; }
+		
+input, textarea { margin-top: 10px; }
+
+#wrapper { width: 1020px; 
+		   margin-left: auto;
+		   margin-right: auto; 
+		   background-color: #ddddee; 
+		   box-shadow: 5px 5px 5px; }
+		   
+#home { float: right; 
+		margin-left: 25px; } 
+
+#about { float: right; 
+		 margin-left: 40px;
+		 margin-top: 50px; }
+
+#radio { height: 80px; }
+
+#submit { margin-left: 110px; }
+
+.icons { margin-top: 10px;
+		 margin-left: 45px; }
+
+.floatleft { float: left;
+			 width: 200px;
+			 padding: 10px; 
+			 margin-right: 10px; 
+			 font-size: 80%; }
+
+.floatleft ul { padding-left: 20px; }
+			  
+.location { padding-right: 70px; 
+			padding-bottom: 120px; }
+			  
+.location img { float: right; }
+
+@media only screen and (max-width: 1024px) {
+	body { background-color: #000000; }
+}
+
+@media only screen and (max-width: 768px) {
+	body { background-color: #eaeaea; }
+}
