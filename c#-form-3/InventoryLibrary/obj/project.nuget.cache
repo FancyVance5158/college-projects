@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Y3Ummr4HeshTA6KtBx1M5b3WI4gH4liSsMCJmX7q7l0WoeTmU/yJwjyJHP7mw9Wu/GGOLPF4l2Q72zJZXeY9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\popo2\\OneDrive - Indiana University\\Documents\\Old School\\Ivy Tech Summer 2020\\SDEV240\\C# Projects\\M16-PA-Extra-16-2\\InventoryMaint with library\\InventoryLibrary\\InventoryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\popo2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\popo2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

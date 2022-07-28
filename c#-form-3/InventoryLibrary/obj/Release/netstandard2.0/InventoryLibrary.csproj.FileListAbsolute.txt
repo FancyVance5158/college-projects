@@ -1,0 +1,17 @@
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.AssemblyInfo.cs
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.deps.json
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.dll
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.pdb
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.dll
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.pdb
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.deps.json
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.dll
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\bin\Release\netstandard2.0\InventoryLibrary.pdb
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.csprojAssemblyReference.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.AssemblyInfo.cs
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.dll
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryLibrary\obj\Release\netstandard2.0\InventoryLibrary.pdb

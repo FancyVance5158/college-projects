@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BudgetApp</string>
+
+    <string-array name="split_array">
+        <item>Category: - Groceries</item>
+        <item>Category: - Gas</item>
+        <item>Category: - Spending</item>
+        <item>Category: - Mortgage</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+
+    <string name="negative_balance_title">Allow Negative Balance?</string>
+    <string name="negative_balance_summary">Spend more out of a category than what is available. </string>
+
+    <string name="delete_history_title">Delete History After...</string>
+    <string name="delete_history_summary">Select how long it takes before entries are erased from Payment History. </string>
+    <string name="delete_history_default">5</string>
+
+    <string name="custom_percentage_title">Custom Budget Percentage</string>
+    <string name="custom_percentage_summary">Enter a custom percentage for each of the four categories. (Enter 4 numbers seperated by commas) </string>
+    <string name="custom_percentage_default">60, 20, 10, 10</string>
+
+    <string name="entry_default_date">7/30/20</string>
+    <string name="entry_default_category">Groceries</string>
+    <string name="entry_default_amount">$x.xx</string>
+
+    <string name="help_page_info">
+        Welcome to my budgeting app! \n\nThis app is centered around the idea of breaking each paycheck into different spending categories in order to help you view your money in an easily-digestible way.\n\n
+        Money is divided into 4 categories: <i>Monthly Mortgage Payment</i>, <i>Groceries</i>, <i>Gas</i>, and <i>Spending</i>. There is currently no way to add additional categories.\n\n
+        Each page functions as follows:\n\n
+            <b>Main page:</b> Displays the current value of each spending category, which starts at 0. Increase or decrease these through the "Enter Payment" Menu.\n\n
+            <b>Enter Payment:</b> Here you can enter either a paycheck or a payment.\n\n
+		        <u>Paycheck:</u> The value is split by 4 and added to each category (by default, this is split 60% for Mortgage, 20% for Groceries, 10% for Gas and 10% for Spending, but these can be changed in preferences.)\n
+		        <u>Payment:</u> Subtracts the value from the category you choose\n\n
+            Select either the paycheck or payment button, enter a value and, for a payment, select a category to subtract from.\n\n
+	        <b>Payment History:</b> Displays a history of all previous entries. Select between paychecks and payments using the buttons.\n\n
+	        <b>Preferences:</b> There are three settings to be changed in the preferences menu:\n\n
+                1. <b>Allow Negative Balance</b> \n(Default: Yes) - This allows a negative balance for any category. When set to No, you will not be allowed to enter a payment that would result in a negative balance.\n
+		        2. <b>Delete History After…</b> \n(Default: Never) - This will delete entries from the Payment History section that are older than a certain date. (NOTE: This does not affect current category values)\n
+		        3. <b>Custom Budget Percentage</b> \n(Default: 60, 20, 10, 10) - Here you can set how a paycheck will be broken down into the Mortgage, Groceries, Gas, and Spending categories respectively. Each number represents what percentage the paycheck is broken into (For example, a paycheck of $100 will be split into $60, $20, $10 and $10 for each category). \nWhen entering a new item, the 4 numbers MUST add up to 100, and each number MUST be separated by a comma and a space, just like the default values.\n
+    </string>
+</resources>

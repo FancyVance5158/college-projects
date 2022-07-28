@@ -1,0 +1,45 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="categories_array">
+        <item>Monthly Mortgage Payment</item>
+        <item>Groceries</item>
+        <item>Gas</item>
+        <item>Spending</item>
+    </string-array>
+
+    <string-array name="budget_values">
+        <item>300.00</item>
+        <item>40.00</item>
+        <item>30.00</item>
+        <item>15.00</item>
+    </string-array>
+
+    <string-array name="delete_history_array">
+        <item>1 Week</item>
+        <item>2 Weeks</item>
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>1 Year</item>
+        <item>Never</item>
+    </string-array>
+
+    <string-array name="delete_history_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>

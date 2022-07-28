@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtHistory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="50dp"
+        android:text="History"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp" />
+
+    <RadioGroup
+        android:id="@+id/rdoSelector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtHistory"
+        android:layout_centerHorizontal="true"
+        android:checkedButton="@id/rdoPaycheck"
+        android:orientation="horizontal"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp">
+
+        <RadioButton
+            android:id="@+id/rdoPaycheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paycheck" />
+
+        <RadioButton
+            android:id="@+id/rdoPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Payment" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/linHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_below="@id/rdoSelector"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/lblDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:paddingRight="48dp"></TextView>
+        <TextView
+            android:id="@+id/lblCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Category/Amount"
+            android:paddingRight="30dp"></TextView>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lstHistory"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@id/linHistory"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="70dp">
+    </ListView>
+</RelativeLayout>

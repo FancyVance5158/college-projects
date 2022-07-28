@@ -1,0 +1,51 @@
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 16\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 16\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 16\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 16\InventoryMaintenance with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryLibrary.dll
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryLibrary.pdb
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojAssemblyReference.cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.CopyComplete
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\popo2\source\repos\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryLibrary.dll
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\bin\Debug\InventoryLibrary.pdb
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojAssemblyReference.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.CopyComplete
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\popo2\OneDrive - Indiana University\Documents\Old School\Ivy Tech Summer 2020\SDEV240\C# Projects\M16-PA-Extra-16-2\InventoryMaint with library\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb

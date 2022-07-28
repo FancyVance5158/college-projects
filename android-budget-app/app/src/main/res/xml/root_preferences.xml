@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="pref_negative_balance"
+        android:title="@string/negative_balance_title"
+        android:summary="@string/negative_balance_summary"
+        android:defaultValue="true" />
+
+    <ListPreference
+        android:key="pref_delete_history"
+        android:title="@string/delete_history_title"
+        android:summary="@string/delete_history_summary"
+        android:dialogTitle="@string/delete_history_title"
+        android:entries="@array/delete_history_array"
+        android:entryValues="@array/delete_history_values"
+        android:defaultValue="@string/delete_history_default"/>
+
+    <EditTextPreference
+        android:key="pref_custom_percentages"
+        android:title="@string/custom_percentage_title"
+        android:summary="@string/custom_percentage_summary"
+        android:dialogTitle="@string/custom_percentage_title"
+        android:defaultValue="@string/custom_percentage_default" />
+</PreferenceScreen>

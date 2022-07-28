@@ -1,0 +1,34 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Theme customizations NOT specific to a particular API -->
+
+        <!-- Set new styles for all text in the theme -->
+        <item name="android:textAppearanceSmall">@style/TextAppearanceSmall</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearanceSmallInverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearanceMedium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearanceMediumInverse</item>
+    </style>
+
+
+    <!-- These styles are applied automatically -->
+    <style name="TextAppearanceSmall"
+        parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearanceSmallInverse"
+        parent="@android:style/TextAppearance.Small.Inverse">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearanceMedium"
+        parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearanceMediumInverse"
+        parent="@android:style/TextAppearance.Medium.Inverse">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
